@@ -1,5 +1,18 @@
-.App {
+.flex {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+ 
+}
+
+
+.Com2{
+   
+  margin-left: 150px;
+  transform: translate(0px,50px);
 }
 
 .App-logo {
